@@ -1,0 +1,87 @@
+section{
+    border: 3px solid #4C1D95;
+    border-radius: 10px;
+     max-width: 1000px;
+    margin: 20px auto;
+    padding: 24px;
+    background-color: #A78BFA;
+}
+
+img{
+    width: 50%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 240px;
+}
+
+h3{
+    margin-top: 10px;
+}
+
+.lab-dev-soft h2{
+    text-align: center;
+}
+
+.lab-dev-soft p{
+    text-align: center;
+}
+
+.lab-dev-soft h3{
+    text-align: center;
+}
+
+.lab-dev-soft li{
+    margin-left: 410px;
+}
+
+.lab-mak h2{
+    text-align: center;
+}
+
+.lab-mak p{
+    text-align: center;
+}
+
+.lab-mak h3{
+    text-align: center;
+}
+
+.lab-mak li{
+    margin-left: 410px;
+}
+
+.esp-proj-colab h2{
+    text-align: center;
+}
+
+.esp-proj-colab h3{
+    text-align: center;
+}
+
+.esp-proj-colab p{
+    text-align: center;
+}
+
+.esp-proj-colab li{
+    margin-left: 410px;
+}
+
+.pag-inicial a{
+      display: block;
+  width: fit-content;  
+  margin: 0 auto;    
+  text-align: center;
+  text-decoration: none;
+  background-color: #7C3AED;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 5px 70px rgba(76, 29, 149, 0.1);
+}
+
+
+main a:hover {
+  transform: translateY(-2px); 
+  box-shadow: 0 10px 70px 0 rgba(76, 29, 149, 0.4); 
+}

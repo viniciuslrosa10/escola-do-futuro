@@ -1,0 +1,37 @@
+.conteudo img{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 305px;
+    margin-right: auto;
+}
+
+section{
+    text-align: center;
+}
+
+.texto-apresentacao{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.conteudo a{
+  display: block;
+  width: fit-content;  
+  margin: 0 auto; 
+  margin-top: 150px;    
+  text-align: center;
+  text-decoration: none;
+  background-color: #7C3AED;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 5px 70px rgba(76, 29, 149, 0.1);
+}
+
+
+main a:hover {
+  transform: translateY(-2px); 
+  box-shadow: 0 10px 70px 0 rgba(76, 29, 149, 0.4); 
+}
+

@@ -1,0 +1,55 @@
+.conteudo img{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 440px;
+    margin-right: auto;
+}
+
+.conteudo h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.conteudo p{
+    text-align: center;
+    font-size: 18px;
+}
+
+.nossos-diferenciais li{
+    margin-left: 715px;
+}
+
+.nossos-diferenciais ul{
+    margin-bottom: 20px;
+}
+
+main a{
+  display: block;
+  width: fit-content;  
+  margin: 0 auto; 
+  margin-bottom: 15px;  
+  text-align: center;
+  text-decoration: none;
+  background-color: #7C3AED;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 5px 70px rgba(76, 29, 149, 0.1);
+}
+
+
+main a:hover {
+  transform: translateY(-2px); 
+  box-shadow: 0 10px 70px 0 rgba(76, 29, 149, 0.4); 
+}
+
+footer{
+    border-top: 2px solid #4C1D95;
+}
+
+footer h3{
+    text-align: center;
+    margin-top: 5px;
+}
